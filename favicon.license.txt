@@ -1,2 +1,2 @@
-The Nancy logo is copyright ©2011 by Andreas Håkansson and Steven Robbings. Please consult the usage guidelines in the Nancy.Portfolio repository (https://github.com/NancyFx/Nancy.Portfolio) for information on how it may be used.
-changed
+﻿The Nancy logo is copyright ©2011 by Andreas Håkansson and Steven Robbings. Please consult the usage guidelines in the Nancy.Portfolio repository (https://github.com/NancyFx/Nancy.Portfolio) for information on how it may be used.
+changed 
